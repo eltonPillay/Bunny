@@ -9,3 +9,10 @@
 .navcol {
     background-color: var(--foucol);
 }
+
+
+.btn {
+    background-color: var(--fircol);
+    border-color: var(--thicol);
+    color: var(--foucol);
+  }
